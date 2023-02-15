@@ -1,0 +1,46 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "Rishi Krishnan Murugesan"
+date: '2023-02-15'
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Problem Description
+
+This peer assessed assignment has two parts. 
+
+First, you will create a Shiny application and deploy it on Rstudio's servers. 
+
+Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Shiny Application Steps
+
+- Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+
+- Deploy the application on Rstudio's shiny server
+
+- Share the application link by pasting it into the provided text box
+
+- Share your server.R and ui.R code on github
+
+## Shiny Application
+
+The application plots a scatter plot of Sepal Length vs Sepal Width of the Iris flower based on the selected species.
+
+Please select the Iris species from the drop-down on the left side.
+
+Click [here](https://nmvrishi.shinyapps.io/DDP-Assignment/) to access the application
+
+Click [here](https://github.com/nmvrishi/developingdataproducts) to access the Github repository containing server.R and ui.R
+
+## Rstudio Presenter
+
+This presentation you see now satifies the second rubric.
+
+## Thank You!
+
+
